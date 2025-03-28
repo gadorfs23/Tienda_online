@@ -1,4 +1,6 @@
 class Cliente:
+    """esto es una clase cliente
+    """    
     def __init__(self,id,nombre,email,direccion):
         self.__id = id
         self.__nombre = nombre
